@@ -3,5 +3,9 @@
 - Conteúdo
 - Semântico (tags)
 
-* `<h1>` Heading
-* `<a>` Link 
+```<h1>``` Heading
+```<a>``` Link 
+
+#CSS
+É uma linguagem de estilo, tem as seguintes responsabilidades:
+- Visual
